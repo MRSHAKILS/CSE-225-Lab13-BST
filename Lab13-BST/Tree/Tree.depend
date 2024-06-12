@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1698941017 source:e:\cse 225\lab\lab13-bst\tree\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+
+1698936548 e:\cse 225\lab\lab13-bst\tree\binarysearchtree.h
+	"quetype.h"
+	"binarysearchtree.tpp"
+
+1699677387 e:\cse 225\lab\lab13-bst\tree\quetype.h
+	"quetype.h"
+
+1698938438 e:\cse 225\lab\lab13-bst\tree\binarysearchtree.tpp
+	"binarysearchtree.h"
+	"quetype.tpp"
+	<iostream>
+
+1698939471 e:\cse 225\lab\lab13-bst\tree\quetype.tpp
+	<iostream>
+	"quetype.h"
+
